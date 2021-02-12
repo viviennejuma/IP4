@@ -6,7 +6,7 @@ By Vivienne Juma
 # Description
 This is data obtained from the electric car sharing service. The data that have been used are in the data folder. It contains the cleaned dataset and the original one.
 # Setup Requirements
-I used visual studio code to investiagate the data.
+I used visual studio code to investiagate the data and i used juptyer notebook extension to compile it.
 # Language used
 Python is the only language that has been used to code. Within python we used pandas and numpy library
 # Support
